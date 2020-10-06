@@ -1,0 +1,7 @@
+token = "<API_TOKEN>"
+root_pass = "<ROOT_USER_PASSWORD>"
+ssh_key = "<RAW_PUBLIC_KEY>"
+label = "<LABEL>"
+tags = "<TAG>"
+image = "<IMAGE>"
+region = "<REGION>"
